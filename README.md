@@ -1,5 +1,5 @@
 A program egy currency converter osztályban valósítja meg a konverziós függvényt.
-A tesztelhetőség kedvéért lett külön osztályban megvalósítva a jobb tesztelhetőség kedvéért.
+A jobb tesztelhetőség kedvéért lett külön osztályban megvalósítva a feladat.
 
 A program működése:
 - először bekér egy átváltandó összeget számmal
